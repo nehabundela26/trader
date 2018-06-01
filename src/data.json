@@ -1,0 +1,17 @@
+[{"tradeId":"1","side":"Buy","price":3500,"tradeDate":"22/03/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"London","quantity":12},
+{"tradeId":"12","side":"Sell","price":3500,"tradeDate":"25/03/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"NewYork","quantity":12},
+{"tradeId":"13","side":"Buy","price":3500,"tradeDate":"28/03/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"Dubai","quantity":12},
+{"tradeId":"14","side":"Buy","price":3400,"tradeDate":"29/03/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"India","quantity":11},
+{"tradeId":"15","side":"Buy","price":3400,"tradeDate":"02/04/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"Africa","quantity":10},
+{"tradeId":"16","side":"Buy","price":5000,"tradeDate":"04/04/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"London","quantity":12},
+{"tradeId":"17","side":"Sell","price":8000,"tradeDate":"05/04/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"NewYork","quantity":17},
+{"tradeId":"18","side":"Buy","price":2000,"tradeDate":"06/04/2017",
+"status":"OPEN","commodity":"AL","counterParty":"Buenos Aires","location":"Dubai","quantity":15}
+]
